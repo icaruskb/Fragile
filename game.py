@@ -21,7 +21,6 @@ class Game:
 
 
         self.assets = {
-            
             'player': load_image('entities/player.png')
         }
 
@@ -38,7 +37,7 @@ class Game:
             self.tilemap.render(self.display)
             self.player.update((self.movement[2] - self.movement[3], 0))
             self.player.render(self.display)
-
+            
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     pygame.quit()
