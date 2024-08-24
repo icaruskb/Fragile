@@ -1,3 +1,4 @@
 # Fragile
+UNFINISHED
 Learning pygame 
 ----------------------------------
