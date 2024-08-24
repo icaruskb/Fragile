@@ -1,4 +1,2 @@
 # Fragile
-UNFINISHED
-Learning pygame 
-----------------------------------
+Built as a supplement while learning pygame 
